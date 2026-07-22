@@ -7,7 +7,6 @@
 **A data-storytelling deep dive into 1,000 customers, uncovering who actually buys a bike — and why.**
 
 ![Status](https://img.shields.io/badge/status-complete-brightgreen)
-![Python](https://img.shields.io/badge/python-pandas%20%7C%20matplotlib-3776AB?logo=python&logoColor=white)
 ![Records](https://img.shields.io/badge/records-1%2C000-blue)
 ![Conversion](https://img.shields.io/badge/conversion%20rate-48.1%25-E8704A)
 ![License](https://img.shields.io/badge/license-MIT-lightgrey)
