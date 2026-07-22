@@ -167,3 +167,5 @@ add a light music bed, burn in captions, and it's ready to publish.
 *Feedback and suggestions welcome — feel free to open an issue or reach out.*
 
 </div>
+<img width="1272" height="647" alt="image" src="https://github.com/user-attachments/assets/a39ca5ab-fbd2-4a09-9466-5f905ae86bf2" />
+
