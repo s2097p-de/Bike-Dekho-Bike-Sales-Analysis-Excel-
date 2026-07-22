@@ -11,10 +11,7 @@
 ![Conversion](https://img.shields.io/badge/conversion%20rate-48.1%25-E8704A)
 ![License](https://img.shields.io/badge/license-MIT-lightgrey)
 
-[Report](Bike_Dekho_Sales_Analysis_Report.pdf) ·
-[Video](Bike_Dekho_Story_Slideshow.mp4) ·
-[Script](Bike_Dekho_Video_Script_Storyboard.md) ·
-[Dataset](1784647314056_Bike_Dekho___Bike_Sales_Analysis.xlsx)
+
 
 </div>
 
